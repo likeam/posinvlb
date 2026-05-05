@@ -532,7 +532,7 @@ export const POSView: React.FC = () => {
             <div className="flex gap-4">
               <button
                 onClick={() => setShowCheckout(false)}
-                className="flex-1 py-4 text-slate-400 font-bold hover:text-slate-900"
+                className="flex-1 py-5 text-slate-400 font-bold hover:text-slate-900"
               >
                 Close
               </button>
